@@ -1,0 +1,13 @@
+The game of “Los chinos” was born in 1787 in a small town in León.
+Felipe Valdeón Triguero, a local shepherd, invented the game for having fun during the long shepherding hours.
+He picked up some pebbles from the ground and invited all other shepherds to do as he did and then hide in their hands a certain number of pebbles.
+They had to guess, with their hands closed, how many pebbles there were in total.
+The traditional rules say that each player has three coins (instead of pebbles) and, in each round, she or he can take 0, 1, 2 or 3 coins in the right hand.
+Then each player, in turns, says her or his bet out loud, trying to guess the sum of all the coins in all players’ hands.
+A guess already made by other player cannot be taken.
+The rules for the rest of the match can vary: “a la caída” (the player winning a round abandons the game, and the game goes on until there is only one loosing player),
+“a un marcador de x rondas ganadas” (the one winning x rounds abandons the game and the match goes on until there is only one left), etc.
+And, by the way, lying is strictly forbidden!
+A player cannot bet an inviable number according the number of coins that she or he has.
+For instance, assuming that there are two players, a player can only bet a number equal or higher than the coins she or he has and equal or smaller than her or his coins plus the maximum number of coins of her or his rival.
+XXX
